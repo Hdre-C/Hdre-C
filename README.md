@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm Hdre</h1>
+<h3 align="center">I am a computer science student with a passion in AI/Machine Learning!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hdre-c&label=Profile%20views&color=0e75b6&style=flat" alt="hdre-c" /> </p>
+
+- 🔭 I’m currently working on **AI version of me.**
+
+- 🌱 I’m currently learning **Java!**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Hdre-C](https://github.com/Hdre-C)
+
+- 💬 Ask me about **anything Python.**
+
+
+I am a beginner programmer with a basic skill level in Python and Java. All my coding projects are built from scratch and have a planning phase for the code, so I know exactly what is being created (pseudocode!).
+
+
 <h1 align="center">Where you can find me and fun facts!</h1>
 
 ###
