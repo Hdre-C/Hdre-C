@@ -1,4 +1,4 @@
-<h2 align="left">Hello, my name is Hdre and I am a computer science student with a passion in AI/Machine Learning!</h2>
+<h1 align="center">Where you can find me and fun facts!</h1>
 
 ###
 
