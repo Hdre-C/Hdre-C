@@ -4,12 +4,12 @@ My portfolio highlights hands-on cybersecurity projects focused on vulnerability
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)** (UPS)
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** (UPS)
+- **[Vulnerability Management Program Implementation](https://github.com/Hdre-C)** (UPS)
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Hdre-C)** (UPS)
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)** (UPS)
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Hdre-C)** (UPS)
 
 <hr/>
 
