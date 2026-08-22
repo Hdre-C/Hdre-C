@@ -1,15 +1,15 @@
 # <a href="https://www.linkedin.com/in/hder-ch-32b49a213/">Haider Chohan's</a> IT and Cybersecurity Project Portfolio 🔐
 
-My portfolio highlights hands-on cybersecurity projects focused on vulnerability management, threat detection, and security operations. Each project demonstrates practical skills, real-world scenarios, and my continued growth in cybersecurity.
+My portfolio highlights hands-on cybersecurity projects focused on vulnerability management, threat detection, and security operations at an enterprise level. Each project demonstrates practical skills and real-world scenarios.
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)** (UPS)
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** (UPS)
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)** (UPS)
 
 <hr/>
 
